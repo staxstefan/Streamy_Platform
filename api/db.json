@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "My steawddd",
+      "id": 1
+    },
+    {
+      "title": "Title Test",
+      "description": "Description Test",
+      "id": 2
+    },
+    {
+      "title": "Title Test",
+      "description": "Description Test",
+      "id": 3
+    },
+    {
+      "title": "Tim D TatMan",
+      "description": "Join me while I suck at League of Legens",
+      "userId": "111023195601021056636",
+      "id": 6
+    },
+    {
+      "title": "Refactored Component",
+      "description": "Reused components",
+      "id": 7
+    }
+  ]
+}
